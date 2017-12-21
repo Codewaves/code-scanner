@@ -29,7 +29,7 @@ group='com.github.Codewaves'
 ext {
     libraryName = 'CodeScanner'
     libraryDescription = 'Code scanner library for Android, based on ZXing'
-    libraryVersion = '1.7.3'
+    libraryVersion = '1.7.4'
     artifact = 'code-scanner'
     developerId = 'yuriy-budiyev'
     developerName = 'Yuriy Budiyev'
@@ -50,7 +50,7 @@ android {
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 26
-        versionCode 34
+        versionCode 35
         versionName libraryVersion
     }
 
